@@ -1,0 +1,3 @@
+// ES6 introduced...
+// - important array methods such as map, filter, and reduce
+// - Promises!
